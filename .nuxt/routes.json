@@ -1,0 +1,30 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\abhi\\\\Desktop\\\\React\\\\exhaustbaba\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_1d8c55c9"
+  },
+  {
+    "name": "Contact",
+    "path": "/Contact",
+    "component": "C:\\\\Users\\\\abhi\\\\Desktop\\\\React\\\\exhaustbaba\\\\pages\\\\Contact.vue",
+    "chunkName": "pages/Contact",
+    "_name": "_51b483bc"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\Users\\\\abhi\\\\Desktop\\\\React\\\\exhaustbaba\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "_name": "_61ec7d50"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\abhi\\\\Desktop\\\\React\\\\exhaustbaba\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3d44308e"
+  }
+]
