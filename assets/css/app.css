@@ -4,22 +4,28 @@
      position: fixed;
      bottom:0;
      width: 100%;
-    height: calc(100vh - auto);
+    height: calc(8vh);
     background:#cecece;
     
 }
-nav li{
-    margin:0 10px;
-    padding:15px;
-    transition: all .2s ease;
-    font-weight: bold;
-    font-size: .7em;
-}
+    nav li{
+      margin:0 10px;
+      padding:15px;
+      transition: all .2s ease;
+      font-weight: bold;
+      font-size: .7em;
+    }
+    .container {
+      margin:0 1%;
+    }
+    .desc{
+      padding:0 5%;
+    }
 }
 nav{
     position: fixed;
     width: 100%;
-    height: calc(100vh - auto);
+    height: calc(8vh);
     background:#cecece;
     z-index: 100;
 }
@@ -149,34 +155,12 @@ nav li:hover{
   .overlay img{
     height:70%;
   }
-  @media only screen and (max-width: 600px) {
-    .container {
-      margin:0 1%;
-    }
-    .desc{
-      padding:0 5%;
-    }}
-  @media only screen and (max-width: 600px) {
-    nav{
-        position: fixed;
-        bottom:0;
-        width: 100%;
-       height: calc(100vh - auto);
-       background:#cecece;
-       
-   }
-   nav li{
-       margin:0 10px;
-       padding:15px;
-       transition: all .2s ease;
-       font-weight: bold;
-       font-size: .7em;
-   }
-   }
+
+
    nav{
        position: fixed;
        width: 100%;
-       height: calc(100vh - auto);
+       height: calc(100vh);
        background:#cecece;
        z-index: 100;
    }
