@@ -4,7 +4,7 @@
      position: fixed;
      bottom:0;
      width: 100%;
-    height: calc(100vh);
+    height: calc(100vh - auto);
     background:#cecece;
     
 }
@@ -19,7 +19,7 @@ nav li{
 nav{
     position: fixed;
     width: 100%;
-    height: calc(100vh);
+    height: calc(100vh - auto);
     background:#cecece;
     z-index: 100;
 }
@@ -161,7 +161,7 @@ nav li:hover{
         position: fixed;
         bottom:0;
         width: 100%;
-       height: calc(100vh);
+       height: calc(100vh - auto);
        background:#cecece;
        
    }
@@ -176,7 +176,7 @@ nav li:hover{
    nav{
        position: fixed;
        width: 100%;
-       height: calc(100vh);
+       height: calc(100vh - auto);
        background:#cecece;
        z-index: 100;
    }
