@@ -16,7 +16,7 @@ export default {
       { name="og:title", content="Exhaust Baba | Bike Exhaust and Silencer Trader"},
       {name="og:type" ,content="Company.business"},
       {name="og:url", content="https://exhaustbaba.com/"},
-      {name="og:image" ,content="https://exhaustbaba.com/_nuxt/img/eblogotext.dec9206.svg"}
+      {name="og:image" ,content="../static/eblogotext.png"}
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/eblogo.svg' }
