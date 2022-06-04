@@ -12,7 +12,11 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Exhaust Baba | Bike Exhaust and Silencer Trader based in delhi and trade across span india' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { name: 'format-detection', content: 'telephone=no' },
+      { name="og:title", content="Exhaust Baba | Bike Exhaust and Silencer Trader"},
+      {name="og:type" ,content="Company.business"},
+      {name="og:url", content="https://exhaustbaba.com/"},
+      {name="og:image" ,content="https://exhaustbaba.com/_nuxt/img/eblogotext.dec9206.svg"}
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/eblogo.svg' }
